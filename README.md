@@ -28,7 +28,8 @@ print(b)
 
 ```
 ## Output:
-![EXM3](https://github.com/23004027/INVERSE-OF-A-MATRIX/assets/138956447/be5c158d-95fc-4ebc-97f2-8b34085cf454)
+![Screenshot 2023-12-27 032135](https://github.com/vigneshraaj00/INVERSE-OF-A-MATRIX/assets/138849113/366f12ee-7404-4d52-a68d-9f73f2822887)
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
